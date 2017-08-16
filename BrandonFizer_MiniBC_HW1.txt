@@ -1,0 +1,24 @@
+Brandon Fizer
+8/15/17
+	MiniBootCamp-H1 : 
+	Understanding Functions & Data Types
+
+Variables: 
+	-Variables are placeholders or containers that store various information with the use of a custom name.
+
+Strings:
+	-Strings are characters of letters and/or numbers wrapped inside of quotation marks.
+
+Functions:
+	-Functions are a collection of code used to command the program to do something. 
+	-The "Argument" of a function specifies the input data needed to complete the task.
+	-The "Return" of a function sends the final data of the function to the line that called it.
+
+if Statements:
+	-If statements are used to verify whether a specific question is true or false which commands 
+	different tasks base on its reslut.
+
+Boolean Values:
+	-Boolean values are used to specify data to be true or false (0 or 1).
+	
+
